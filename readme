@@ -1,0 +1,15 @@
+To run this project you should:
+ 1- clone this repository to your visual studio 2022 and use the package manager console and write the command update-database
+2- download the frontend and use visual studio code and run a live server
+3- edit the javascripts to your domain 
+4- edit the cors and enable your frontend domain 
+5- enjoy your website
+this website contains :
+1- ntier architecture 
+2- account controller for the identity 
+3- todo controller for the tasks with crud operation 
+4- repositories 
+why i used repositories instead of the simple linq or unit of work ?
+Because its a simple project but we have to ensure security by deploying the repositories and in the same time not use something that would require more work such as the unit of work.
+**Note**
+Authorize not working due to frontend issues with js i tried really hard to solve it but i couldnt to be honest as i have a basic understanding of js not a professional but i am willing to learn more.
