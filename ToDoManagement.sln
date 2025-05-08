@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoManagement", "ToDoManagement\ToDoManagement.csproj", "{6C2C801A-9B22-4D04-B795-84C14BD8BD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoManagement.Models", "ToDoManagement.Models\ToDoManagement.Models.csproj", "{C9621B51-7CE9-41F1-8818-8879C996D733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoManagement.DataAccess", "ToDoManagement.DataAccess\ToDoManagement.DataAccess.csproj", "{ABB9355A-B9BC-4AB0-BBA5-2CCAAFA67B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoManagement.Utilities", "ToDoManagement.Utilities\ToDoManagement.Utilities.csproj", "{1B6CC909-CE08-4608-9022-B5B2291E8D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2C801A-9B22-4D04-B795-84C14BD8BD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2C801A-9B22-4D04-B795-84C14BD8BD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2C801A-9B22-4D04-B795-84C14BD8BD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2C801A-9B22-4D04-B795-84C14BD8BD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9621B51-7CE9-41F1-8818-8879C996D733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9621B51-7CE9-41F1-8818-8879C996D733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9621B51-7CE9-41F1-8818-8879C996D733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9621B51-7CE9-41F1-8818-8879C996D733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB9355A-B9BC-4AB0-BBA5-2CCAAFA67B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB9355A-B9BC-4AB0-BBA5-2CCAAFA67B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB9355A-B9BC-4AB0-BBA5-2CCAAFA67B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB9355A-B9BC-4AB0-BBA5-2CCAAFA67B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6CC909-CE08-4608-9022-B5B2291E8D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6CC909-CE08-4608-9022-B5B2291E8D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6CC909-CE08-4608-9022-B5B2291E8D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6CC909-CE08-4608-9022-B5B2291E8D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
