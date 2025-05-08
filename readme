@@ -12,4 +12,5 @@ this website contains :
 why i used repositories instead of the simple linq or unit of work ?
 Because its a simple project but we have to ensure security by deploying the repositories and in the same time not use something that would require more work such as the unit of work.
 **Note**
-Authorize not working due to frontend issues with js i tried really hard to solve it but i couldnt to be honest as i have a basic understanding of js not a professional but i am willing to learn more.
+Authorization not working due to frontend althought its working on swagger, due to issues with js i tried really hard to solve it but i couldnt to be honest as i have a basic understanding of js not a professional but i am willing to learn more.
+the login/register are working fine but the problem is with [Authorize] on the controller when i add it it just wont let the frontend fetch the data
